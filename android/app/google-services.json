@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327159768718",
+    "project_id": "motion-todolist-ae086",
+    "storage_bucket": "motion-todolist-ae086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327159768718:android:f7899ebf81da5519994bdf",
+        "android_client_info": {
+          "package_name": "com.example.latihan_minggu_7_ver2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYHsEDofV8BfbEJ4icN969_x7Od3s9jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
